@@ -1,0 +1,10 @@
+To switch branches in Git, you can use the git checkout command or the newer git switch command. Here’s how to use both:
+
+Using git checkout
+bash
+Copy code
+git checkout <branch-name>
+Using git switch
+bash
+Copy code
+git switch <branch-name>
